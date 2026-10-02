@@ -1,16 +1,45 @@
-## Hey, I’m Amr 👋
-<img src="https://komarev.com/ghpvc/?username=aequate&style=for-the-badge&label=Profile+Views"/>
-Informatics student passionate about competitive programming and building projects. I like turning messy ideas into clean, maintainable code, and I spend a lot of time on algorithmic thinking and performance.
+```
+                                        __
+                                       /\ \__
+   __       __     __   __  __     __  \ \ ,_\    __
+ /'__`\   /'__`\ /'__`\/\ \/\ \  /'__`\ \ \ \/  /'__`\
+/\ \L\.\_/\  __//\ \L\ \ \ \_\ \/\ \L\.\_\ \ \_/\  __/
+\ \__/.\_\ \____\ \___, \ \____/\ \__/.\_\\ \__\ \____\
+ \/__/\/_/\/____/\/___/\ \/___/  \/__/\/_/ \/__/\/____/
+                      \ \_\
+                       \/_/
 
-### Currently working on:
- - A LLM-based competitive programming tutor with personalized set generations.<br>
- - A 3D scientific visualization platform to aid with Aphantasia.<br>
- - A deterministic, sandboxed incident-simulation platform<br>
- - A modern Minecraft HCF server
- - And more!
+amro@aequate
+-------------------------------------------------------
+role     data science undergrad · GIU, Cairo · class of 2028
+focus    ML research · 3D vision · data systems · dev tools
+langs    Python · C++ · TypeScript · Rust · Java · C#
+ml       PyTorch · LoRA · quantization · ONNX Runtime · VGGT / DA3
+systems  PostgreSQL · FastAPI · Docker · Tauri · Playwright · Z3
+cp       ECPC 2026 qualifier, rank 67 · Codeforces
+```
 
-### Projects:
-**Check Soon!**
+I build research systems end to end: preregistered ML experiments, data pipelines with
+provenance, and developer tools that people actually use.
 
-### Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white) ![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+**[CV (PDF)](Amro_Taha_CV.pdf)** · [floxys.dev](https://floxys.dev) · [LinkedIn](https://www.linkedin.com/in/amro-taha/) · [X](https://x.com/floxylol)
+
+## Selected work
+
+| Project | What it is | Result |
+|---|---|---|
+| **[Yardstick3D](https://github.com/aequate/Yardstick3D)** | Real-world scale for frozen 3D foundation models (VGGT, Depth Anything 3) from a cheap GNSS receiver | Trajectory error 16–44 m → 1.5–3.9 m on held-out drone flights |
+| **[Git4Me](https://github.com/aequate/git4me)** | Desktop Git client where history is an editable timeline: commits are clips, branches are tracks | v1.0 · Rust, Tauri 2, React |
+| **[dance-sync-cv](https://github.com/aequate/dance-sync-cv)** | Measures timing spread between dancers from a single wide-angle 4K video | Recovers a 50 ms lag to within 20 ms |
+| **MedShift** <sub>private</sub> | How clinical LLMs fail under deployment shift: region, language, skin tone | Triage accuracy 58.1% → 71.9% under a preregistered analysis |
+| **Kymra** <sub>private</sub> | Finds, verifies and ranks scholarships and research programmes you are actually eligible for | ~70k lines of Python, 3,300+ tests |
+| **[The Observer Effect](https://github.com/aequate/TheObserverEffect)** | First-person Unity horror game with a gaze-driven stalker and CCTV monitors | Team project |
+
+More, including an F1 telemetry → behaviour-cloning stack and three verification tools, in the [CV](Amro_Taha_CV.pdf).
+
+## Next up
+
+- **CP tutor:** an LLM competitive-programming tutor that generates problem sets personalised to where you get stuck.
+- **Aphantasia viz:** a 3D scientific visualisation platform for people who can't picture things in their head.
+- **Incident sim:** a deterministic, sandboxed platform for simulating production incidents. Same seed, same outage.
+- **HCF server:** a modern Minecraft Hardcore Factions server.
