@@ -1,23 +1,9 @@
-```
-                                        __
-                                       /\ \__
-   __       __     __   __  __     __  \ \ ,_\    __
- /'__`\   /'__`\ /'__`\/\ \/\ \  /'__`\ \ \ \/  /'__`\
-/\ \L\.\_/\  __//\ \L\ \ \ \_\ \/\ \L\.\_\ \ \_/\  __/
-\ \__/.\_\ \____\ \___, \ \____/\ \__/.\_\\ \__\ \____\
- \/__/\/_/\/____/\/___/\ \/___/  \/__/\/_/ \/__/\/____/
-                      \ \_\
-                       \/_/
-
-amro@aequate
--------------------------------------------------------
-role     data science undergrad · GIU, Cairo · class of 2028
-focus    ML research · 3D vision · data systems · dev tools
-langs    Python · C++ · TypeScript · Rust · Java · C#
-ml       PyTorch · LoRA · quantization · ONNX Runtime · VGGT / DA3
-systems  PostgreSQL · FastAPI · Docker · Tauri · Playwright · Z3
-cp       ECPC 2026 qualifier, rank 67 · Codeforces
-```
+<a href="https://discord.com/users/866782430899077122">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://wild-moon-2739.floxylak359.workers.dev/?theme=dark">
+    <img alt="amro@aequate: data science undergrad at GIU, Cairo (class of 2028). ML research, 3D vision, data systems, dev tools. Live Discord status." src="https://wild-moon-2739.floxylak359.workers.dev/?theme=light">
+  </picture>
+</a>
 
 I build research systems end to end: preregistered ML experiments, data pipelines with
 provenance, and developer tools that people actually use.
