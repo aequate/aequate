@@ -1,7 +1,7 @@
 <a href="https://discord.com/users/866782430899077122">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://wild-moon-2739.floxylak359.workers.dev/?theme=dark">
-    <img alt="amro@aequate: data science undergrad at GIU, Cairo (class of 2028). ML research, 3D vision, data systems, dev tools. Live Discord and Spotify status." src="https://wild-moon-2739.floxylak359.workers.dev/?theme=light">
+    <source media="(prefers-color-scheme: dark)" srcset="https://wild-moon-2739.floxylak359.workers.dev/?theme=dark&layout=fluid">
+    <img width="100%" alt="amro@aequate: data science undergrad at GIU, Cairo (class of 2028). ML research, 3D vision, data systems, dev tools. Live Discord and Spotify status." src="https://wild-moon-2739.floxylak359.workers.dev/?theme=light&layout=fluid">
   </picture>
 </a>
 
